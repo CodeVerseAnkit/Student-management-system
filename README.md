@@ -101,7 +101,11 @@ g++ student_management.cpp -o sms
 
 4. Follow the on-screen menu to use the system.
 
+---
 
+Example screenshot
+
+https://github.com/CodeVerseAnkit/Student-management-system/blob/main/Example.jpg
 
 
 ---
